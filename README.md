@@ -2,3 +2,4 @@
 This repo contains sample codes to show how to use Azure Cognitive Services within different programming languages in its simplest forms.
 
 [Bing Speech API - Text to Speech function](./TextToSpeech.cs)
+[Speaker Recognition API - Speaker Verification function](./SpeakerVerification.cs)
